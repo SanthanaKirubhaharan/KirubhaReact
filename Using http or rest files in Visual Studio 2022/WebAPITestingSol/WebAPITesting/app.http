@@ -1,0 +1,11 @@
+
+GET https://localhost:7268/WeatherForecast
+
+###
+
+POST https://localhost:7268/WeatherForecast/1
+Content-type: application/json
+
+
+
+
