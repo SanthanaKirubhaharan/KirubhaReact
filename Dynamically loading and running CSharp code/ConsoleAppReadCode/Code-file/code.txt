@@ -1,0 +1,9 @@
+using System;
+
+public class LibClass
+{
+    public void LibMethod()
+    {
+        Console.WriteLine("Hello, from code library!");
+    }
+}
